@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vabhijith
+# Abhijith V
 
 **Computer Science & Engineering Student &bull; DevOps & Cloud Architecture &bull; AI/ML & Systems**
 
